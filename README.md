@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @YuzakiHikari
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning C++
-- 📫 Reach me on thuanphan2k7@gmail.com
+-Hi, I’m @YuzakiHikari
+-I’m interested in Programming
+-I’m currently learning C++
+-Reach me on yuzakihikari@gmail.com
 
 <!---
 YuzakiHikari/YuzakiHikari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
